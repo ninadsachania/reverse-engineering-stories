@@ -1,2 +1,4 @@
-# reverse-engineering-stories
-A collection of reverse engineering stories. PR are welcome :-)
+# Reverse Engineering Stories
+
+This is a collection of links to various reverse engineering stories.
+
